@@ -1,0 +1,25 @@
+{
+  "name": "a-cli-usage",
+  "version": "0.0.0",
+  "main": "lib/main",
+  "dependencies": {
+    "mixto": ""
+  },
+  "devDependencies": {
+    "kosher": ""
+  },
+  "description": "A Cli Usage",
+  "keywords": [
+    "a",
+    "cli",
+    "usage"
+  ],
+  "homepage": "https://github.com/joaoafrmartins/a-cli-usage",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaoafrmartins/a-cli-usage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joaoafrmartins/a-cli-usage/issues"
+  }
+}

@@ -21,5 +21,7 @@
   },
   "bugs": {
     "url": "https://github.com/joaoafrmartins/a-cli-usage/issues"
-  }
+  },
+  "author": "João Afonso Martins",
+  "license": "MIT"
 }
